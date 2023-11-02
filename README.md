@@ -9,7 +9,7 @@
 
 ![car1](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/assets/112803720/71780ef3-fb16-464a-9029-10133d586c3e)
 ![road](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/assets/112803720/6be39e16-766c-48d9-8465-bba99686ef70)
-![streetLamp](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/assets/112803720/2467dfc7-a213-4c2f-910c-abadfbd73bc6)
+![streetLamp](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/assets/112803720/105761c8-6257-4fb9-947d-c3e1ab4197f5)
 ![shop](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/assets/112803720/f16b933b-bf40-4ffa-b3d5-460e0af7ef03)
 ![sign](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/assets/112803720/d13fbb70-cf42-47ea-98d4-4de5c679c079)
 ![signalGreen](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/assets/112803720/7c42380d-b96c-4c16-9cdb-56d27d00eba9)
