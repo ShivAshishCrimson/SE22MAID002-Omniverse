@@ -1,6 +1,10 @@
 # SE22MAID002-Omniverse
-SE22MAID002
-PARAM SHIV ASHISH
+<h4>SE22MAID002</h4>
+<h4>PARAM SHIV ASHISH</h4>
 ALL ASSETS DESIGNED BY ME IN BLENDER 
 HERE ARE SOME SCREENSHOTS
+<p align="center">
+  <img src="/Image%20Renders/car1.png" width="350" title="hover text">
+  <img src="/Image%20Renders/car1.png" width="350" alt="accessibility text">
+</p>
 ![alt text](https://github.com/ShivAshishCrimson/SE22MAID002-Omniverse/blob/main/Image%20Renders/car1.png)
